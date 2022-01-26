@@ -1,3 +1,5 @@
+:warning: This is a demo library. Do not ever, _ever_ use this library in production
+
 # Hidash
 
 Helping all your utility needs
